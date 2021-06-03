@@ -1,0 +1,10 @@
+Rapport Inlämingsuppgift 2:
+
+Det mesta uatv koden fanns redan på plats, det va bara för oss att klura ut hur vi skulle lösa funktionerna och få dom att göra det vi ville på webben!
+Jag skrev om funktionen på ett annat sätt bara för att prova ifall jag kom ihåg hur man skrev dom på detta sätt (man kan skriva dom på 3 olika vis, men en arrow function hittade jag inte va möjligt att skriva i denna functionn). Då provade jag att istället skriva en så kallad "function expression" för att se ifall jag kom ihåg hur man gjorde. Enda naktdelen när man skriver dessa typer av funktioner är att om man tex tar den funktionen och kalalr på den och ger den ett "värde" så kommer man få ett fel för att man inte kan "komma åt" funktionen. 
+
+
+
+Jag använde med bara utavn console.log() för att debugga. 
+Detta användes inprincip efter varje rad utav kod jag skrev, för att tidigt kunna se vart felet är istället för att kolla igenom koden efter man skrivit hela functionen.
+Jag använder även en extension som heter "quokka.js" när jag skriver JS och när jag kör det programmet så ser jag utan att köra koden vad som kommer "skrivas ut" om jag console.log() koden, så då ser jag även där utan att behöva gå in på webben o se ifall koden funkar eller ej. 
